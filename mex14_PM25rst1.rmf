@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<RasterMetaFile version="1.0">
+<Projection>
+	<WktProjection value="GEOGCS[WGS 84,DATUM[WGS_1984,SPHEROID[WGS 84,6378137,298.257223563,AUTHORITY[EPSG,7030]],AUTHORITY[EPSG,6326]],PRIMEM[Greenwich,0],UNIT[degree,0.0174532925199433],AUTHORITY[EPSG,4326]]"/>
+</Projection>
+<Statistics>
+	<BandCount>1</BandCount>
+	<Band>
+		<Max>30.22931480407715</Max>
+		<Min>0.0</Min>
+		<SecondMax>29.987655639648438</SecondMax>
+		<SecondMin>10.274813652038574</SecondMin>
+		<MaxRGB>0.0</MaxRGB>
+		<MinRGB>0.0</MinRGB>
+		<SecondMaxRGB>0.0</SecondMaxRGB>
+		<SecondMinRGB>255.0</SecondMinRGB>
+		<Mean>4.878400737558572</Mean>
+		<Variance>58.706319262767906</Variance>
+		<NValues>14220</NValues>
+	</Band>
+</Statistics>
+</RasterMetaFile>
